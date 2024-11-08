@@ -23,6 +23,8 @@ This project is a decentralized app (DApp) for generating AI images, uploading t
 ### Installation
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/AI-Image-NFT-Generator.git
-   cd AI-Image-NFT-Generator
+   git clone https://github.com/Shivam-kum-mhta/NFTMinter.git
+   cd NFTMinter
+   npm i
+   npm run dev
   ```
