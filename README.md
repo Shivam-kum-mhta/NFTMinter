@@ -1,9 +1,13 @@
 # DEMO 
 Vercel Deployment: [https://nft-minter-alpha.vercel.app/](https://nft-minter-alpha.vercel.app/)
 
-# AI Image NFT Generator
+# AI Image NFTMinter
 
 This project is a decentralized app (DApp) for generating AI images, uploading them to IPFS (InterPlanetary File System), and minting them as NFTs on the Ethereum blockchain.
+
+![image](https://github.com/user-attachments/assets/1ca24675-dc55-4522-af3d-dd2127ba2958)
+![image](https://github.com/user-attachments/assets/7cdc3e40-074e-4c79-a70e-375d2390f705)
+
 
 ## Features
 - Generate or upload an image to mint as an NFT.
