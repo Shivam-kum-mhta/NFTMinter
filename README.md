@@ -1,8 +1,28 @@
-# React + Vite
+# AI Image NFT Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a decentralized app (DApp) for generating AI images, uploading them to IPFS (InterPlanetary File System), and minting them as NFTs on the Ethereum blockchain.
 
-Currently, two official plugins are available:
+## Features
+- Generate or upload an image to mint as an NFT.
+- Decentralized storage with IPFS using Pinata.
+- Blockchain integration with Ethereum and MetaMask.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React** for frontend
+- **ethers.js** for blockchain interaction
+- **IPFS (via Pinata)** for decentralized storage
+- **Solidity** for the smart contract
+
+## Setup
+
+### Prerequisites
+- Node.js and npm
+- MetaMask extension in your browser
+- A Pinata account for IPFS storage
+
+### Installation
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/yourusername/AI-Image-NFT-Generator.git
+   cd AI-Image-NFT-Generator
+  ```
