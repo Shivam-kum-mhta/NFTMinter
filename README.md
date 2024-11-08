@@ -5,11 +5,11 @@ Vercel Deployment: [https://nft-minter-alpha.vercel.app/](https://nft-minter-alp
 
 This project is a decentralized app (DApp) for generating AI images, uploading them to IPFS (InterPlanetary File System), and minting them as NFTs on the Ethereum blockchain.
 
-## generate unique ai images and upload them on upfs
+## Generate unique ai images and upload them on IPFS
 ![image](https://github.com/user-attachments/assets/1ca24675-dc55-4522-af3d-dd2127ba2958)
-## mint the nft for image
+## Mint the nft for image
 ![image](https://github.com/user-attachments/assets/7cdc3e40-074e-4c79-a70e-375d2390f705)
-## the nft overview from sepolia-etherscan
+## The nft overview from sepolia-etherscan
 ![image](https://github.com/user-attachments/assets/09cb3a6d-8470-45fd-ab20-bf433fee4491)
 
 
